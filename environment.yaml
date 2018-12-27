@@ -1,0 +1,8 @@
+name: JournalHoldingsCount2
+dependencies:
+  - python=3.5
+  - lxml
+  - requests
+  - xlrd
+  - xlwt
+  - xlutils
